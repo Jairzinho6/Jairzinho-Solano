@@ -1,0 +1,16 @@
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\ExamenBansi.exe.config
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\ExamenBansi.exe
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\ExamenBansi.pdb
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\EntityFramework.dll
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\EntityFramework.xml
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.csproj.AssemblyReference.cache
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.Form1.resources
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.Properties.Resources.resources
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.csproj.GenerateResource.cache
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.csproj.CoreCompileInputs.cache
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.csproj.CopyComplete
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.exe
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.pdb
+C:\Users\jair_\source\repos\ExamenBansi\ExamenBansi\obj\Debug\ExamenBansi.Presentation.FormTabla.resources
